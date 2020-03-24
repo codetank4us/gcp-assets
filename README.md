@@ -1,0 +1,1 @@
+# Sample pciture snapshots related to GCP deployment
